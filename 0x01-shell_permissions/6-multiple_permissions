@@ -1,0 +1,2 @@
+#!/bin/binary
+chmod ug+x,o+r hello
